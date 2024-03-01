@@ -1,0 +1,6 @@
+{
+  "watch": ["src"],
+  "ext": "ts,tsx", 
+  "ignore": ["src/pages/**/*.ts*", "src/routes/**/*.ts*"],
+  "exec": "npx vite build --mode client"
+}

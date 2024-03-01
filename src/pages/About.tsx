@@ -3,7 +3,7 @@ export default function Page() {
     return (
     <html>
         <head>
-            <title>welcome</title>
+            <title>welcome-about!</title>
             <link href="/static/main.css" rel="stylesheet" />
         </head>
         <body>
